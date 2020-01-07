@@ -136,7 +136,7 @@ sample_run/
 *.pkl
 
 # data
-*.csv
+# *.csv
 
 # idea files
 .idea/
