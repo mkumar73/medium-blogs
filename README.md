@@ -1,1 +1,1 @@
-Repository containing files for medium blog
+Repository containing files related to blogs published on medium.
